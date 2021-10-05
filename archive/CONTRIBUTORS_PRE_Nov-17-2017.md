@@ -16680,4 +16680,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
-
+### Name: omkachave(https://github.com/omkachave)
+- Place: Maharashtra, India
+- Bio: Web Devloper, DS Algo
+- Github: omkachave https://github.com/omkachave
